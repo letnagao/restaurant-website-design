@@ -1,5 +1,5 @@
 ## Restaurant Website ✨
-Complete Responsive Website Using HTML and CSS, Complete HTML and CSS  Website Design
+Complete Responsive Website Using JS, HTML and CSS.
 
 ![Language count](https://img.shields.io/github/languages/count/letnagao/restaurant-website-design?color=green)
 ![Top language](https://img.shields.io/github/languages/top/letnagao/restaurant-website-design?color=ff69b4)
