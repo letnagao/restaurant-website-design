@@ -11,7 +11,7 @@ Complete Responsive Website Using JS, HTML and CSS.
 
 ## Preview 🔥
 <p>
-
+<img src="https://user-images.githubusercontent.com/99754900/184511024-1622626c-66cf-4f59-b442-4835e8ed00df.jpg" />
 </p>
 
 </ul><h2>Technologies Used 🛠️</h2>
