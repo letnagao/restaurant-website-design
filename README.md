@@ -9,10 +9,13 @@ Complete Responsive Website Using JS, HTML and CSS.
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/restaurant-website-design?logo=GitHub)](https://github.com/letnagao/restaurant-website-design/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-## Preview 🔥
-<p>
-<img src="https://user-images.githubusercontent.com/99754900/184511024-1622626c-66cf-4f59-b442-4835e8ed00df.jpg" />
-</p>
+</ul><h2> Preview ⚡️</h2>
+<table align="center">
+  <tr>
+    <td><image src="https://user-images.githubusercontent.com/99754900/184511024-1622626c-66cf-4f59-b442-4835e8ed00df.jpg" width=1280 height=700/></td>
+  </tr>
+</table>
+
 
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
